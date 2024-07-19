@@ -24,7 +24,7 @@
 /datum/skill/craft/masonry
 	name = "Masonry"
 
-/datum/skill/craft/traps
+/datum/skill/craft/traps //random commit
 	name = "Trapmaking"
 
 /datum/skill/craft/cooking
