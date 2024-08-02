@@ -80,7 +80,7 @@
 
 /datum/status_effect/debuff/feinted
 	id = "nofeint"
-	duration = 50
+	duration = 500
 
 /datum/status_effect/debuff/feintcd
 	id = "feintcd"
